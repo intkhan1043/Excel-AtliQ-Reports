@@ -2,26 +2,25 @@
 # Project Objectives
 This project is focused on achieving the following key objectives:
 ## Sales Report
+1. **Customer Performance Report:**
 
- **1.	Customer Performance Report:**
-
-  o Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+     - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
   
- **2.	Market Performance and Sales Targets Comparison:**
+3. **Market Performance and Sales Targets Comparison:**
 
-  o	Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales       
+     - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales       
    strategies.
 
 ## Finance Report
 
-**1.Profit and Loss (P&L) Reports by Fiscal Year and Months:**
+1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
 
-  o Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over 
+     - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over 
     different time frames.
 
-**2.Profit and Loss (P&L) Reports by Markets:**
-    
-  o Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous 
+3. **Profit and Loss (P&L) Reports by Markets:**
+
+     - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous 
     periods.
 
 # Lessons Learned
