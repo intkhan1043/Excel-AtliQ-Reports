@@ -62,4 +62,4 @@ This project not only allowed me to apply my technical skills but also provided 
 
 # Report Links
 
-[• Customer Performance Report](https://github.com/intkhan1043/Excel-AtliQ-Reports/blob/main/AtliQ%20Customer%20Perfomance%20Report.pdf)
+• [Customer Performance Report](https://github.com/intkhan1043/Excel-AtliQ-Reports/blob/main/AtliQ%20Customer%20Perfomance%20Report.pdf)
